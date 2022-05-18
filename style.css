@@ -298,6 +298,11 @@ a:hover {
     line-height: normal;
     color: #575757;
 }
+.réal{
+    font-size: 22px;
+    padding-left: 27%;
+    padding-right: 27%;
+}
 
 #bloc-1-hero h1 {
     font-size: 32px;
@@ -663,8 +668,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
@@ -723,6 +727,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+
 }
 
 h3 {
@@ -754,6 +759,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.lifooter{
+    color: white;
+}
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -769,7 +777,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(30, 22, 2, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -787,15 +795,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #9C461E;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #9C461E;
     color: #FFFFFF!important;
 }
 
@@ -838,7 +846,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
